@@ -3,3 +3,7 @@
 
 ## Prueba markdown 
 ### Prueba para hacer commit en git
+
+
+## Test para git status
+### Probando el staging area
